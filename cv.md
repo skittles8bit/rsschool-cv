@@ -15,7 +15,7 @@ Graduated courses in iOS application development from IT academy.
 
 Skill set: 
 C# (Frameworks: [.NetFraimwork][fraimwork]; 
-IDE: [Visual Studio] [vs]).
+IDE: [Visual Studio][vs]).
 
 Swift (Frameworks: [UIKit][uikit];
 IDE: [Xcode][xcode]).
