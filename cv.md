@@ -60,11 +60,13 @@ _December 2016 — Present_
 - ability to successfully manage time, balancing multiple tasks with varying levels 
   of priority and urgency.
 
-## Education  "Belarusian National Technical University"
+## Education  
+
+#### "Belarusian National Technical University"
 
 _September 2012 - Jule 2017 (4 years 10 month)_
 
-### SOFTWARE FOR COMPUTERS AND AUTOMATED SYSTEMS
+#### SOFTWARE FOR COMPUTERS AND AUTOMATED SYSTEMS
 
 ## English
 
