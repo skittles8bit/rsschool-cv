@@ -1,5 +1,7 @@
 # Alieksander Karenski
 
+## Contact Info
+
 +375 (29) 515-10-20  MTS
 
 __E-mail__: alexander.karenski@gmail.com
@@ -8,12 +10,24 @@ __LinkedIn__: [akarensky][linkedin akarensky]
 
 __GitHub__: [skittles8bit][github profile]
 
-## Middle C# Developer
+## Summary
+
+### Middle C# Developer
 
 Experience in software development for more than 3 years, recently I have been supporting Windows Desktop Application on .net.
 Graduated courses in iOS application development from IT academy.
 
-Skill set: 
+#### Personal qualities
+
+- analytical mindset, the ability to find non-trivial solutions;
+- skills for in-depth study of technical documentation, analysis and
+    problem solving;
+- neat, organized, a tendency to perfectionism;
+- good interpersonal and collaboration skills, clearly expressing my
+    thoughts;
+- restrained, stress and depression are not affected.
+
+## Skills: 
 C# (Frameworks: [.NetFraimwork][fraimwork]; 
 IDE: [Visual Studio][vs]).
 
@@ -22,7 +36,7 @@ IDE: [Xcode][xcode]).
 
 Git ([CLI][git], [GitHub][github]), [JIRA][jira].
 
-## Examples of Projects
+## Code examples
 
 - [Calculator][calculator] (``swift``)
 
@@ -46,21 +60,17 @@ _December 2016 — Present_
 - ability to successfully manage time, balancing multiple tasks with varying levels 
   of priority and urgency.
 
-### State institution "Belarusian National Technical University"
+## Education  "Belarusian National Technical University"
 
 _September 2012 - Jule 2017 (4 years 10 month)_
 
-#### SOFTWARE FOR COMPUTERS AND AUTOMATED SYSTEMS
+### SOFTWARE FOR COMPUTERS AND AUTOMATED SYSTEMS
 
-## Personal qualities
+## English
 
-- analytical mindset, the ability to find non-trivial solutions;
-- skills for in-depth study of technical documentation, analysis and
-    problem solving;
-- neat, organized, a tendency to perfectionism;
-- good interpersonal and collaboration skills, clearly expressing my
-    thoughts;
-- restrained, stress and depression are not affected.
+Level: A2 (Pre-Intermediate)
+
+I studied at school with advanced english classes, after that I got level-placed at the university. I practice a lot daily by reading and watching content in english
 
 [linkedin akarensky]: https://www.linkedin.com/in/akarensky/
 [github profile]: https://github.com/skittles8bit
