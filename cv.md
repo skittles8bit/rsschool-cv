@@ -13,7 +13,13 @@ __GitHub__: [skittles8bit][github profile]
 Experience in software development for more than 3 years, recently I have been supporting Windows Desktop Application on .net.
 Graduated courses in iOS application development from IT academy.
 
-Skill set: C# (Frameworks: [.NetFraimwork][fraimwork]; IDE: [Visual Studio] [vs]) Swift (Frameworks: [UIKit][uikit]; IDE: [Xcode][xcode]); 
+Skill set: 
+C# (Frameworks: [.NetFraimwork][fraimwork]; 
+IDE: [Visual Studio] [vs]).
+
+Swift (Frameworks: [UIKit][uikit];
+IDE: [Xcode][xcode]).
+
 Git ([CLI][git], [GitHub][github]), [JIRA][jira].
 
 ## Examples of Projects
